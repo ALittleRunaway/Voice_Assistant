@@ -173,17 +173,13 @@
         <mood>Скучно: никто не приходит, никто не говорит со мной.</mood>
         <mood>Что мы все обо мне да обо мне? О себе лучше расскажите - ваши как дела?</mood>
     </moods>
-    <name>Маша</name>
+    <name></name>
     <remember>
         <fact adj="Моего">кота зовут Макс</fact>
         <fact adj="Моя">любимая книга Python Crash Course</fact>
         <fact adj="Мой">любимый сериал Мистер Робот</fact>
         <fact adj="Моя">любимая группа Pink Floyd</fact>
-        <fact adj="Мой">любимый фильм Леон</fact>
-        <fact adj="Моего">друга зовут Кирилл</fact>
-        <fact adj="Моя">любимая гитара Fender squier Bullet strat</fact>
-        <fact adj="мои">любимые часы Casio</fact>
-    <fact adj="мой">любимый язык Python</fact></remember>
+    </remember>
     <tasks>
         <task name="застелить кровать"><sphere>личное</sphere><priorety>средний</priorety><date>25/06/2020</date></task>
         <task name="полить цветы"><sphere>дом</sphere><priorety>высокий</priorety><date>25/06/2020</date></task>
